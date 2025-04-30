@@ -1,4 +1,4 @@
-# DORIC Resource Allocation Project
+# Fuelbreaks Graph Separation Project
 
 This project aims to find where decision makers should place fire fuelbreaks. A basic strategy utilizing equal graph partitioning and quantum computing is used to determine the placements with speed and efficacy
 
